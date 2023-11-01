@@ -51,3 +51,10 @@ How to solve Conflicts?
 
 
 may the force be with us
+
+Update:
+
+ - after struggling with the pull requests (not having the ability to merge) I have finally succeeded.
+ - had problems with the GitHub account (had multiple repositories saved from previous project) - sorted everything and now works ok
+ - still have some voids to fill, to better understand some things
+ - automation is a whole new world and so many things to explore/do
